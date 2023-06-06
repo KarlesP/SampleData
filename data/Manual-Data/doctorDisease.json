@@ -1,0 +1,105 @@
+{
+    "specialties": [
+        {
+            "specialty": "Cardiologist",
+            "diseases": [
+                "Heart attack",
+                "Hypertension"
+            ]
+        },
+        {
+            "specialty": "Dermatologist",
+            "diseases": [
+                "Fungal infection",
+                "Acne",
+                "Varicose veins",
+                "Psoriasis",
+                "Impetigo"
+            ]
+        },
+        {
+            "specialty": "Pediatrician",
+            "diseases": [
+                "Common Cold",
+                "Chicken pox"
+            ]
+        },
+        {
+            "specialty": "Pathologist",
+            "diseases": [
+                "Malaria",
+                "Dengue"
+            ]
+        },
+        {
+            "specialty": "Allergist",
+            "diseases": [
+                "Allergy",
+                "Drug Reaction"
+            ]
+        },
+        {
+            "specialty": "Pathologist",
+            "diseases": [
+                "Urinary tract infection"
+            ]
+        },
+        {
+            "specialty": "Neurologist",
+            "diseases": [
+                "Paralysis (brain hemorrhage)",
+                "Migraine",
+                "(vertigo) Paroymsal Positional Vertigo"
+            ]
+        },
+        {
+            "specialty": "Endocrinologist",
+            "diseases": [
+                "Hypothyroidism",
+                "Hyperthyroidism",
+                "Hypoglycemia",
+                "Diabetes"
+            ]
+        },
+        {
+            "specialty": "Pneumologist",
+            "diseases": [
+                "Tuberculosis",
+                "Bronchial Asthma",
+                "Tuberculosis",
+                "Pneumonia",
+                "Pneumonia"
+            ]
+        },
+        {
+            "specialty": "Orthopedist",
+            "diseases": [
+                "Cervical spondylosis",
+                "Arthritis",
+                "Osteoarthristis"
+            ]
+        },
+        {
+            "specialty": "Gastroenterologist",
+            "diseases": [
+                "Gastroenteritis",
+                "Dimorphic hemmorhoids(piles)",
+                "Peptic ulcer diseae",
+                "Typhoid",
+                "Jaundice",
+                "GERD"
+            ]
+        },
+        {
+            "specialty": "Hepatologist",
+            "diseases": [
+                "Hepatitis B",
+                "Hepatitis C",
+                "Hepatitis D",
+                "Hepatitis E",
+                "Alcoholic hepatitis",
+                "Chronic cholestasis"
+            ]
+        }
+    ]
+}
