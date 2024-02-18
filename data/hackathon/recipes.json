@@ -1,0 +1,227 @@
+{
+    "recipes": [
+      {
+        "name": "Moroccan Tagine",
+        "cuisine": "Moroccan",
+        "preparation_time": 25,
+        "cooking_time": 60,
+        "servings": 4,
+        "ingredients": [
+          {"ingredient": "Lamb", "quantity": "500g"},
+          {"ingredient": "Carrots", "quantity": "3"},
+          {"ingredient": "Onions", "quantity": "2"},
+          {"ingredient": "Garlic Cloves", "quantity": "2"},
+          {"ingredient": "Chickpeas", "quantity": "400g can"},
+          {"ingredient": "Diced Tomatoes", "quantity": "400g can"},
+          {"ingredient": "Chicken Stock", "quantity": "2 cups"},
+          {"ingredient": "Cinnamon Stick", "quantity": "1"},
+          {"ingredient": "Ground Cumin", "quantity": "2 tsp"},
+          {"ingredient": "Dried Apricots", "quantity": "100g"},
+          {"ingredient": "Almonds", "quantity": "50g, toasted"}
+        ]
+      },
+      {
+        "name": "Tom Yum Soup",
+        "cuisine": "Thai",
+        "preparation_time": 20,
+        "cooking_time": 30,
+        "servings": 4,
+        "ingredients": [
+          {"ingredient": "Shrimp", "quantity": "200g"},
+          {"ingredient": "Lemongrass", "quantity": "2 stalks"},
+          {"ingredient": "Galangal", "quantity": "50g"},
+          {"ingredient": "Kaffir Lime Leaves", "quantity": "6"},
+          {"ingredient": "Fish Sauce", "quantity": "3 tbsp"},
+          {"ingredient": "Lime Juice", "quantity": "3 tbsp"},
+          {"ingredient": "Chili Paste", "quantity": "2 tsp"},
+          {"ingredient": "Mushrooms", "quantity": "200g"},
+          {"ingredient": "Chicken Stock", "quantity": "4 cups"},
+          {"ingredient": "Cherry Tomatoes", "quantity": "100g"},
+          {"ingredient": "Cilantro", "quantity": "For garnish"}
+        ]
+      },
+      {
+        "name": "Ratatouille",
+        "cuisine": "French",
+        "preparation_time": 30,
+        "cooking_time": 40,
+        "servings": 6,
+        "ingredients": [
+          {"ingredient": "Eggplant", "quantity": "1"},
+          {"ingredient": "Zucchini", "quantity": "1"},
+          {"ingredient": "Yellow Squash", "quantity": "1"},
+          {"ingredient": "Bell Peppers", "quantity": "2"},
+          {"ingredient": "Tomatoes", "quantity": "4"},
+          {"ingredient": "Onion", "quantity": "1"},
+          {"ingredient": "Garlic Cloves", "quantity": "2"},
+          {"ingredient": "Tomato Paste", "quantity": "2 tbsp"},
+          {"ingredient": "Olive Oil", "quantity": "¼ cup"},
+          {"ingredient": "Fresh Basil", "quantity": "To taste"},
+          {"ingredient": "Thyme", "quantity": "1 tsp"},
+          {"ingredient": "Salt and Pepper", "quantity": "To taste"}
+        ]
+      },
+      {
+        "name": "Paella",
+        "cuisine": "Spanish",
+        "preparation_time": 20,
+        "cooking_time": 40,
+        "servings": 4,
+        "ingredients": [
+          {"ingredient": "Rice", "quantity": "2 cups"},
+          {"ingredient": "Chicken Thighs", "quantity": "4"},
+          {"ingredient": "Shrimp", "quantity": "200g"},
+          {"ingredient": "Mussels", "quantity": "12"},
+          {"ingredient": "Chorizo", "quantity": "100g"},
+          {"ingredient": "Peas", "quantity": "1 cup"},
+          {"ingredient": "Tomatoes", "quantity": "2"},
+          {"ingredient": "Chicken Stock", "quantity": "4 cups"},
+          {"ingredient": "Saffron Threads", "quantity": "1 tsp"},
+          {"ingredient": "Paprika", "quantity": "2 tsp"},
+          {"ingredient": "Olive Oil", "quantity": "2 tbsp"},
+          {"ingredient": "Lemon Wedges", "quantity": "For serving"}
+        ]
+      },
+      {
+        "name": "Beef Stroganoff",
+        "cuisine": "Russian",
+        "preparation_time": 20,
+        "cooking_time": 30,
+        "servings": 4,
+        "ingredients": [
+          {"ingredient": "Beef Sirloin", "quantity": "500g"},
+          {"ingredient": "Mushrooms", "quantity": "250g"},
+          {"ingredient": "Onion", "quantity": "1"},
+          {"ingredient": "Garlic Clove", "quantity": "2"},
+          {"ingredient": "Beef Broth", "quantity": "1 cup"},
+          {"ingredient": "Sour Cream", "quantity": "1 cup"},
+          {"ingredient": "Dijon Mustard", "quantity": "1 tbsp"},
+          {"ingredient": "Butter", "quantity": "2 tbsp"},
+          {"ingredient": "All-purpose Flour", "quantity": "1 tbsp"},
+          {"ingredient": "Parsley", "quantity": "For garnishing"}
+        ]
+      },
+      {
+        "name": "Fish Tacos",
+        "cuisine": "Mexican",
+        "preparation_time": 15,
+        "cooking_time": 10,
+        "servings": 4,
+        "ingredients": [
+          {"ingredient": "White Fish Fillets", "quantity": "500g"},
+          {"ingredient": "Cabbage", "quantity": "2 cups, shredded"},
+          {"ingredient": "Avocado", "quantity": "1"},
+          {"ingredient": "Lime", "quantity": "2"},
+          {"ingredient": "Corn Tortillas", "quantity": "8"},
+          {"ingredient": "Sour Cream", "quantity": "1/2 cup"},
+          {"ingredient": "Cilantro", "quantity": "1/2 cup"},
+          {"ingredient": "Cumin", "quantity": "1 tsp"},
+          {"ingredient": "Paprika", "quantity": "1 tsp"},
+          {"ingredient": "Salt and Pepper", "quantity": "To taste"}
+        ]
+      },
+      {
+        "name": "Lentil Soup",
+        "cuisine": "Middle Eastern",
+        "preparation_time": 10,
+        "cooking_time": 40,
+        "servings": 6,
+        "ingredients": [
+          {"ingredient": "Lentils", "quantity": "1 cup"},
+          {"ingredient": "Carrot", "quantity": "2"},
+          {"ingredient": "Celery Stalks", "quantity": "2"},
+          {"ingredient": "Onion", "quantity": "1"},
+          {"ingredient": "Garlic Cloves", "quantity": "3"},
+          {"ingredient": "Tomato Paste", "quantity": "2 tbsp"},
+          {"ingredient": "Cumin", "quantity": "1 tsp"},
+          {"ingredient": "Vegetable Broth", "quantity": "6 cups"},
+          {"ingredient": "Olive Oil", "quantity": "2 tbsp"},
+          {"ingredient": "Salt and Pepper", "quantity": "To taste"}
+        ]
+      },
+      {
+        "name": "Pumpkin Pie",
+        "cuisine": "American",
+        "preparation_time": 30,
+        "cooking_time": 60,
+        "servings": 8,
+        "ingredients": [
+          {"ingredient": "Pumpkin Puree", "quantity": "2 cups"},
+          {"ingredient": "Heavy Cream", "quantity": "1 cup"},
+          {"ingredient": "Eggs", "quantity": "2"},
+          {"ingredient": "Brown Sugar", "quantity": "3/4 cup"},
+          {"ingredient": "Cinnamon", "quantity": "1 tsp"},
+          {"ingredient": "Ginger", "quantity": "1/2 tsp"},
+          {"ingredient": "Nutmeg", "quantity": "1/4 tsp"},
+          {"ingredient": "Pie Crust", "quantity": "1"},
+          {"ingredient": "Whipped Cream", "quantity": "For serving"}
+        ]
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "cuisine": "Italian",
+        "preparation_time": 20,
+        "cooking_time": 20,
+        "servings": 4,
+        "ingredients": [
+          {"ingredient": "Spaghetti", "quantity": "400g"},
+          {"ingredient": "Eggs", "quantity": "4"},
+          {"ingredient": "Pancetta", "quantity": "150g"},
+          {"ingredient": "Parmesan Cheese", "quantity": "100g"},
+          {"ingredient": "Black Pepper", "quantity": "To taste"}
+        ]
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "cuisine": "Indian",
+        "preparation_time": 30,
+        "cooking_time": 40,
+        "servings": 4,
+        "ingredients": [
+          {"ingredient": "Chicken Breast", "quantity": "500g"},
+          {"ingredient": "Yogurt", "quantity": "200g"},
+          {"ingredient": "Onion", "quantity": "1"},
+          {"ingredient": "Tomato Puree", "quantity": "200g"},
+          {"ingredient": "Garlic Cloves", "quantity": "4"},
+          {"ingredient": "Ginger", "quantity": "2 inch piece"},
+          {"ingredient": "Garam Masala", "quantity": "2 tsp"},
+          {"ingredient": "Cumin", "quantity": "1 tsp"},
+          {"ingredient": "Coriander", "quantity": "1 tsp"}
+        ]
+      },
+      {
+        "name": "Vegetable Stir Fry",
+        "cuisine": "Chinese",
+        "preparation_time": 15,
+        "cooking_time": 10,
+        "servings": 2,
+        "ingredients": [
+          {"ingredient": "Bell Peppers", "quantity": "2"},
+          {"ingredient": "Broccoli", "quantity": "200g"},
+          {"ingredient": "Carrot", "quantity": "1"},
+          {"ingredient": "Soy Sauce", "quantity": "3 tbsp"},
+          {"ingredient": "Ginger", "quantity": "1 inch piece"},
+          {"ingredient": "Garlic Cloves", "quantity": "2"},
+          {"ingredient": "Sesame Oil", "quantity": "2 tbsp"}
+        ]
+      },
+      {
+        "name": "Quinoa Salad",
+        "cuisine": "Mediterranean",
+        "preparation_time": 15,
+        "cooking_time": 20,
+        "servings": 4,
+        "ingredients": [
+          {"ingredient": "Quinoa", "quantity": "1 cup"},
+          {"ingredient": "Cucumber", "quantity": "1"},
+          {"ingredient": "Cherry Tomatoes", "quantity": "200g"},
+          {"ingredient": "Feta Cheese", "quantity": "100g"},
+          {"ingredient": "Olives", "quantity": "50g"},
+          {"ingredient": "Lemon Juice", "quantity": "3 tbsp"},
+          {"ingredient": "Olive Oil", "quantity": "2 tbsp"},
+          {"ingredient": "Fresh Parsley", "quantity": "1/4 cup"}
+        ]
+      }
+    ]
+  }
+  
