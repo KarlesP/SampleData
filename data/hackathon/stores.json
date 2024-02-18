@@ -1,0 +1,82 @@
+{
+    "stores": [
+        {
+            "storeName": "Fresh Market",
+            "latitude": 34.0522,
+            "longitude": -118.2437,
+            "ingredients": {
+                "milk": {"price_per_ml": 0.03},
+                "flour": {"price_per_gr": 0.02},
+                "sugar": {"price_per_gr": 0.015},
+                "eggs": {"price_per_unit": 0.2}
+            }
+        },
+        {
+            "storeName": "Organic Goods",
+            "latitude": 40.7128,
+            "longitude": -74.006,
+            "ingredients": {
+                "milk": {"price_per_ml": 0.04},
+                "flour": {"price_per_gr": 0.025},
+                "sugar": {"price_per_gr": 0.02
+                },
+                "eggs": {"price_per_unit": 0.25}
+            }
+        },
+        {
+            "storeName": "City Market",
+            "latitude": 37.7749,
+            "longitude": -122.4194,
+            "ingredients": {
+                "milk": {"price_per_ml": 0.035},
+                "flour": {"price_per_gr": 0.022},
+                "sugar": {"price_per_gr": 0.018},
+                "eggs": {"price_per_unit": 0.22}
+            }
+        },    {
+            "storeName": "Green Valley",
+            "latitude": 51.5074,
+            "longitude": -0.1278,
+            "ingredients": {
+                "milk": {"price_per_ml": 0.045},
+                "flour": {"price_per_gr": 0.03},
+                "sugar": {"price_per_gr": 0.025},
+                "eggs": {"price_per_unit": 0.3}
+            }
+        },
+        {
+            "storeName": "Health Foods",
+            "latitude": 48.8566,
+            "longitude": 2.3522,
+            "ingredients": {
+                "milk": {"price_per_ml": 0.05},
+                "flour": {"price_per_gr": 0.035},
+                "sugar": {"price_per_gr": 0.03},
+                "eggs": {"price_per_unit": 0.33}
+            }
+        },
+        {
+            "storeName": "Vegan Delights",
+            "latitude": -33.8688,
+            "longitude": 151.2093,
+            "ingredients": {
+                "almond milk": {"price_per_ml": 0.06},
+                "coconut flour": {"price_per_gr": 0.045},
+                "organic sugar": {"price_per_gr": 0.04},
+                "free-range eggs": {"price_per_unit": 0.4}
+            }
+        },
+        {
+            "storeName": "Eco Eats",
+            "latitude": 35.6895,
+            "longitude": 139.6917,
+            "ingredients": {
+                "soy milk": {"price_per_ml": 0.055},
+                "rice flour": {"price_per_gr": 0.04},
+                "raw sugar": {"price_per_gr": 0.035},
+                "organic eggs": {"price_per_unit": 0.35}
+            }
+        }
+
+    ]
+}
